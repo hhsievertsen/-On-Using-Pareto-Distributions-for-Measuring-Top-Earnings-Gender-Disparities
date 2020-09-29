@@ -18,14 +18,11 @@ do "D:\Data\workdata\704784\xdrev\704784\pareto_gender\do\settings.do"
 	}
 	
 	// Keep variables
-	keep foed_dag HELTID_DELTID hfaudd  loenmv koen pnr pstill
+	keep foed_dag HELTID_DELTID hfaudd  loenmv koen pnr 
 	// Part time
 	rename HELTID_DELTID_KODE v_parttime_code
 	 // Income concept
 	 rename  loenmv v_income1
-	// Find self-employed
-	 destring pstill,replace
-	 gen int v_self_employed=pstill>=0 & pstill<21
 	// Year
 	 gen int year=`year'
 	// Create real income measure (2015 prices) for income

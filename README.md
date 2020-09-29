@@ -18,7 +18,7 @@ The folder "ado" contains the ado file that defines the Maximum Likelihood Estim
 The project is based on confidential individual level register data from Statistics Denmark that cannot be shared publicly. However, we encourage researchers who wish to replicate our findings to apply for access to Statistics Denmark through a recognized institutions (for example a Danish University or Research Institute) and ask for the following data:
 
 - **Sample**: All individuals aged 18-64y for the years 1980-2013
-- **Variables**
+- **Variables**:
 
   - *loenmv* (gross earnings)
   - *foed_dag* (date of birth: only required if sample is not already restricted by age)

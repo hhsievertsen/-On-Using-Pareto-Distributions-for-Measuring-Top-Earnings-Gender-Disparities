@@ -1,7 +1,7 @@
-# On Using Pareto Distributions for Measuring Top-Earnings Gender Disparities
+# Gender Disparities in Top Earnings: Measurement and Facts for Denmark 1980-2013
  
  
-This repository contains the replication files for the paper "On Using Pareto Distributions for Measuring Top-Earnings Gender Disparities" by Hansen, Harmenberg, Öberg, and Sievertsen.
+This repository contains the replication files for the paper "Gender Disparities in Top Earnings: Measurement and Facts for Denmark 1980-2013" (forthcoming in the Journal of Economic Inequality) by Hansen, Harmenberg, Öberg, and Sievertsen.
 
 ### Contents
 
